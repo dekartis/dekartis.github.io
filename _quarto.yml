@@ -3,8 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Dekartis"
+  # title: "Dekartis"
+  favicon: images/dekartis-web-logo.png
+
+
   navbar:
+    logo: images/dekartis-web-logo.png
     left:
       - href: index.qmd
         text: Home
