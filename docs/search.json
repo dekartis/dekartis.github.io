@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We are committed to democratizing AI/ML knowledge by offering accessible resources that enable the implementation of lightweight models on consumer-grade hardware. Our goal is to empower individuals and communities, regardless of their tehcnical background to learn and confidently apply AI/ML in their domain."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "dekartis-website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
